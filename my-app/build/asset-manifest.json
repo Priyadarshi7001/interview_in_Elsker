@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/userForm_Interview/static/css/main.171aad23.css",
+    "main.js": "/userForm_Interview/static/js/main.1ab24c7a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/userForm_Interview/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/userForm_Interview/index.html",
+    "main.171aad23.css.map": "/userForm_Interview/static/css/main.171aad23.css.map",
+    "main.1ab24c7a.js.map": "/userForm_Interview/static/js/main.1ab24c7a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/userForm_Interview/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.171aad23.css",
+    "static/js/main.1ab24c7a.js"
+  ]
+}
